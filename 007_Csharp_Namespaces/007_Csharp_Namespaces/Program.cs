@@ -30,9 +30,85 @@ namespace _007_Csharp_Namespaces
             Bankomat.Finanse.Bank b = new Bankomat.Finanse.Bank();
             b.MakeClients();
             b.ShowClients();
+
+            //3. Разработайте приложение «7 чудес света», где каждое чудо будет представлено отдельным классом. 
+            WriteLine("3. exercise");
+            Giza.Miracle m1 = new Giza.Miracle();
+            WriteLine("Первое чудо " + m1);
+            Babylon.Miracle m2 = new Babylon.Miracle();
+            WriteLine("Второе чудо " + m2);
+            Olympia.Miracle m3 = new Olympia.Miracle();
+            WriteLine("Третье чудо " + m3);
+            Ephes.Miracle m4 = new Ephes.Miracle();
+            WriteLine("Четвертое чудо " + m4);
+            Rodoss.Miracle m5 = new Rodoss.Miracle();
+            WriteLine("Пятое чудо " + m5);
+            Gelicarnas.Miracle m6 = new Gelicarnas.Miracle();
+            WriteLine("Шестое чудо " + m6);
+            Alexandria.Miracle m7 = new Alexandria.Miracle();
+            WriteLine("Седьмое чудо " + m7);
+        }
+    }
+//3. 
+    namespace Giza
+    {
+        class Miracle
+        {
+            string name = "Пирамида Хеопса";
+            public override string ToString() { return this.name; }
+        }
+    }
+    namespace Babylon
+    {
+        class Miracle
+        {
+            string name = "Висячие сады Семирамиды";
+            public override string ToString() { return this.name; }
+        }
+    }
+    namespace Olympia
+    {
+        class Miracle
+        {
+            string name = "Статуя Зевса";
+            public override string ToString() { return this.name; }
+        }
+    }
+    namespace Ephes
+    {
+        class Miracle
+        {
+            string name = "Храм Артемиды";
+            public override string ToString() { return this.name; }
+        }
+    }
+    namespace Rodoss
+    {
+        class Miracle
+        {
+            string name = "Колосс Родосский";
+            public override string ToString() { return this.name; }
+        }
+    }
+    namespace Gelicarnas
+    {
+        class Miracle
+        {
+            string name = "Мавзолей";
+            public override string ToString() { return this.name; }
+        }
+    }
+    namespace Alexandria
+    {
+        class Miracle
+        {
+            string name = "Маяк";
+            public override string ToString() { return this.name; }
         }
     }
 }
+
+
 namespace USA
 {
     public class Denver
@@ -180,3 +256,4 @@ namespace Bankomat
         }
     }
 }
+
