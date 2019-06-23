@@ -1,0 +1,11 @@
+C:\Users\Nick\source\repos\c_sharp\007_Csharp_Namespaces\007_Csharp_Namespaces\007_Csharp_Namespaces\bin\Debug\netcoreapp2.1\007_Csharp_Namespaces.deps.json
+C:\Users\Nick\source\repos\c_sharp\007_Csharp_Namespaces\007_Csharp_Namespaces\007_Csharp_Namespaces\bin\Debug\netcoreapp2.1\007_Csharp_Namespaces.runtimeconfig.json
+C:\Users\Nick\source\repos\c_sharp\007_Csharp_Namespaces\007_Csharp_Namespaces\007_Csharp_Namespaces\bin\Debug\netcoreapp2.1\007_Csharp_Namespaces.runtimeconfig.dev.json
+C:\Users\Nick\source\repos\c_sharp\007_Csharp_Namespaces\007_Csharp_Namespaces\007_Csharp_Namespaces\bin\Debug\netcoreapp2.1\007_Csharp_Namespaces.dll
+C:\Users\Nick\source\repos\c_sharp\007_Csharp_Namespaces\007_Csharp_Namespaces\007_Csharp_Namespaces\bin\Debug\netcoreapp2.1\007_Csharp_Namespaces.pdb
+C:\Users\Nick\source\repos\c_sharp\007_Csharp_Namespaces\007_Csharp_Namespaces\007_Csharp_Namespaces\obj\Debug\netcoreapp2.1\007_Csharp_Namespaces.csprojAssemblyReference.cache
+C:\Users\Nick\source\repos\c_sharp\007_Csharp_Namespaces\007_Csharp_Namespaces\007_Csharp_Namespaces\obj\Debug\netcoreapp2.1\007_Csharp_Namespaces.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\c_sharp\007_Csharp_Namespaces\007_Csharp_Namespaces\007_Csharp_Namespaces\obj\Debug\netcoreapp2.1\007_Csharp_Namespaces.AssemblyInfoInputs.cache
+C:\Users\Nick\source\repos\c_sharp\007_Csharp_Namespaces\007_Csharp_Namespaces\007_Csharp_Namespaces\obj\Debug\netcoreapp2.1\007_Csharp_Namespaces.AssemblyInfo.cs
+C:\Users\Nick\source\repos\c_sharp\007_Csharp_Namespaces\007_Csharp_Namespaces\007_Csharp_Namespaces\obj\Debug\netcoreapp2.1\007_Csharp_Namespaces.dll
+C:\Users\Nick\source\repos\c_sharp\007_Csharp_Namespaces\007_Csharp_Namespaces\007_Csharp_Namespaces\obj\Debug\netcoreapp2.1\007_Csharp_Namespaces.pdb
